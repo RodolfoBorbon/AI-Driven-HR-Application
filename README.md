@@ -1,4 +1,4 @@
-# EXERA Solutions - Job Description Management System
+# AI-Driven HR Platform
 
 ![EXERA Logo](./assets/images/exera-logo.png)
 
