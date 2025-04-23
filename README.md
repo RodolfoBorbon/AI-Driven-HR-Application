@@ -1,6 +1,6 @@
 # AI-Driven HR Platform
 
-![EXERA Logo](./assets/images/exera-logo.png)
+![NODRICS Logo](./assets/home.png)
 
 ## 📋 Overview
 
@@ -14,7 +14,10 @@ AI-Driven HR Platform is a comprehensive job description management system desig
 - **User Management**: For IT Administrators to manage system users
 - **Responsive UI**: Works seamlessly across desktop and mobile devices
 
-![Dashboard Overview](./assets/images/dashboard-screenshot.png)
+![Dashboard Overview](./assets/jobs.png)
+![create Overview](./assets/create.png)
+![create Overview](./assets/update.png)
+![create Overview](./assets/user.png)
 
 ## 🏗️ Project Architecture
 
