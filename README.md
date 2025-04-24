@@ -1,10 +1,10 @@
-# AI-Driven HR Platform
+# AI-Driven Employees Platform
 
 ![NODRICS Logo](./assets/home.png)
 
 ## 📋 Overview
 
-AI-Driven HR Platform is a comprehensive job description management system designed to streamline the process of creating, editing, and publishing job descriptions while ensuring they are free from unconscious bias. The platform leverages AI to analyze job descriptions and provide recommendations to make your hiring process more inclusive.
+AI-Driven Employees Platform is a comprehensive job description management system designed to streamline the process of creating, editing, and publishing job descriptions while ensuring they are free from unconscious bias. The platform leverages AI to analyze job descriptions and provide recommendations to make your hiring process more inclusive.
 
 ## ✨ Key Features
 
@@ -13,11 +13,6 @@ AI-Driven HR Platform is a comprehensive job description management system desig
 - **Job Creation & Management**: Intuitive interface for creating and editing job descriptions
 - **User Management**: For IT Administrators to manage system users
 - **Responsive UI**: Works seamlessly across desktop and mobile devices
-
-![Dashboard Overview](./assets/jobs.png)
-![create Overview](./assets/create.png)
-![create Overview](./assets/update.png)
-![create Overview](./assets/user.png)
 
 ## 🏗️ Project Architecture
 
