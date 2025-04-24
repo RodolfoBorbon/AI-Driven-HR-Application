@@ -1,7 +1,5 @@
 # AI-Driven Employees Platform
 
-![NODRICS Logo](./assets/home.png)
-
 ## 📋 Overview
 
 AI-Driven Employees Platform is a comprehensive job description management system designed to streamline the process of creating, editing, and publishing job descriptions while ensuring they are free from unconscious bias. The platform leverages AI to analyze job descriptions and provide recommendations to make your hiring process more inclusive.
